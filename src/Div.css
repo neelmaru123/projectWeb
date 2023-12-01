@@ -1,0 +1,26 @@
+.div{
+    background-color: rgba(31, 32, 50, 0.893);
+    width: 90vh;
+    padding: 3vh;
+    border-radius: 30px;
+    border: 2px solid  rgba(79, 255, 158, 0.747);
+    box-sizing: border-box;
+    margin: 10px;
+}
+.title{  
+    color: whitesmoke;
+}
+.description{
+    color: whitesmoke;
+}
+.botton{
+    position: relative;
+    background-color: rgba(79, 255, 158, 0.747);
+    left: 70vh;
+    border-radius: 30px;
+    color: whitesmoke;
+    height: 30px;
+    width: 100px;
+    text-decoration: whitesmoke;
+    font-size: 15px;
+}
